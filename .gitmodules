@@ -1,0 +1,4 @@
+[submodule "karton/archive_extractor/sflock"]
+	path = karton/archive_extractor/sflock
+	url = https://github.com/raw-data/sflock/
+	branch = karton_patch
